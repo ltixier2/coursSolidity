@@ -8,4 +8,4 @@ unité monétaire ETH
 site : http://small.tixier.org
 
 
-ERC20 contract (MTK) : 0x1012be22B522f46857F3d491A9469278F542F112
+ERC20 contract (MTK) : 0xe6DeE5F4dbD2Cc9Cbc38Df72277E104dE453a3B0
