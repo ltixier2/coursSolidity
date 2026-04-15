@@ -1,11 +1,33 @@
 # coursSolidity
-blockchain de test 
-Parametrage metamask : http://small.tixier.org:8545
-network id : 12 
-unité monétaire ETH
 
 
-site : http://small.tixier.org
+recuperer le simulateur de blockchain : 
+
+git clone https://github.com/nambrot/blockchain-in-js
+
+npm start
+ :) 
 
 
-ERC20 contract (MTK) : 0xe6DeE5F4dbD2Cc9Cbc38Df72277E104dE453a3B0
+Paramètres réseau
+
+  ┌───────────────┬───────────────────────────────┐
+  │   Paramètre   │            Valeur             │
+  ├───────────────┼───────────────────────────────┤
+  │ Nom du réseau │ Hesias                        │
+  ├───────────────┼───────────────────────────────┤
+  │ RPC URL       │ https://hesias.tixier.org/rpc │
+  ├───────────────┼───────────────────────────────┤
+  │ Chain ID      │ 12345                         │
+  ├───────────────┼───────────────────────────────┤
+  │ Symbole       │ ETH                           │
+  ├───────────────┼───────────────────────────────┤
+  │ WebSocket     │ wss://hesias.tixier.org/ws    │
+  └───────────────┴───────────────────────────────┘
+
+Ajouter le réseau dans MetaMask
+
+  1. Ouvre MetaMask → Ajouter un réseau → Ajouter un réseau manuellement
+  2. Renseigne les champs ci-dessus
+  3. Sauvegarde
+
