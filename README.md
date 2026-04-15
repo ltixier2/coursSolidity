@@ -11,20 +11,14 @@ npm start
 
 Paramètres réseau
 
-  ┌───────────────┬───────────────────────────────┐
-  │   Paramètre   │            Valeur             │
-  ├───────────────┼───────────────────────────────┤
-  │ Nom du réseau │ Hesias                        │
-  ├───────────────┼───────────────────────────────┤
-  │ RPC URL       │ https://hesias.tixier.org/rpc │
-  ├───────────────┼───────────────────────────────┤
-  │ Chain ID      │ 12345                         │
-  ├───────────────┼───────────────────────────────┤
-  │ Symbole       │ ETH                           │
-  ├───────────────┼───────────────────────────────┤
-  │ WebSocket     │ wss://hesias.tixier.org/ws    │
-  └───────────────┴───────────────────────────────┘
 
+  Nom du réseau : Hesias                    
+  RPC URL : https://hesias.tixier.org/rpc 
+  Chain ID : 12345                       
+  Symbole : ETH
+  WebSocket : wss://hesias.tixier.org/ws 
+  explorateur de blocks : https://blockscout.tixier.org
+  
 Ajouter le réseau dans MetaMask
 
   1. Ouvre MetaMask → Ajouter un réseau → Ajouter un réseau manuellement
