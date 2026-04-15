@@ -32,5 +32,7 @@ Ajouter le réseau dans MetaMask
 
 recuperer des eth : 
 https://hesias.tixier.org -> faucet eth. 
+
 remplir le repertoire d'adresses  -> Registre  // adresse du contrat : 0xaB2a5034b809c437C78B0E0e15C49d20F14A123e
+
 recuperer un token erc20 -> faucet HST. // adresse du contrat : 0xC24bE39EAC2D70Dadd0adA53D396C187bD47FdB3
