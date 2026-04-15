@@ -9,6 +9,7 @@ npm start
  :) 
 
 
+-----------------------------------------------------------------
 Paramètres réseau
 
 
@@ -24,4 +25,11 @@ Ajouter le réseau dans MetaMask
   1. Ouvre MetaMask → Ajouter un réseau → Ajouter un réseau manuellement
   2. Renseigne les champs ci-dessus
   3. Sauvegarde
+
+------------------------------------------------------------------
+
+recuperer des eth : 
+https://hesias.tixier.org -> faucet eth. 
+remplir le repertoire d'adresses  -> Registre 
+recuperer un token erc20 -> faucet HST. 
 
